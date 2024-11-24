@@ -1,0 +1,32 @@
+# Ignorar tudo dentro da pasta TABELAS
+TABELAS/
+
+# Exceções (se você quiser permitir algo específico dentro de TABELAS, remova o comentário):
+# !TABELAS/README.md
+# !TABELAS/JSONS/keep.json
+
+# Ignorar arquivos e pastas comuns no ambiente Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+
+# Ignorar arquivos de sistema e IDEs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Ignorar arquivos de notebook temporários
+*.ipynb_checkpoints/
+
+# Ignorar arquivos de log
+*.log
+*.tmp
+
+# Ignorar ambientes virtuais
+venv/
+.env/
