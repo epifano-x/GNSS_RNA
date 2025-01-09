@@ -30,3 +30,5 @@ Thumbs.db
 # Ignorar ambientes virtuais
 venv/
 .env/
+
+*.h5
