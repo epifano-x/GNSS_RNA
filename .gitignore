@@ -12,6 +12,7 @@ __pycache__/
 *.pyd
 *.sqlite3
 *.db
+*.json
 
 # Ignorar arquivos de sistema e IDEs
 .DS_Store
