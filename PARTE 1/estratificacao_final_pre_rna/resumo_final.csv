@@ -1,0 +1,2 @@
+Total_amostras,Amostras_manha,Amostras_tarde,MAE_lat_global(m),RMSE_lat_global(m),MAE_lon_global(m),RMSE_lon_global(m),MAE_radial_global(m),RMSE_radial_global(m),Correlação_Pearson_LAT×LON,Correlação_Spearman_LAT×LON
+419878,214258,205620,3.5503198071820865,5.981780596725339,2.261079646945065,6.718591717995619,4.615832950253308,8.99561969963599,0.43102774197216415,-0.15297744115514691

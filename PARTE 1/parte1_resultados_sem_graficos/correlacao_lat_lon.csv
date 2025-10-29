@@ -1,0 +1,6 @@
+metric,value
+pearson_r,0.431028
+spearman_rho,-0.152977
+var_lat,29.316953
+var_lon,45.129153
+cov_lat_lon,15.678093

@@ -1,0 +1,5 @@
+quadrante,perc(%)
+"Q1(+lat,+lon)",40.2364
+"Q2(+lat,-lon)",41.8007
+"Q3(-lat,-lon)",11.0923
+"Q4(-lat,+lon)",6.8706
